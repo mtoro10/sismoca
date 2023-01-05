@@ -1,2 +1,2 @@
 # sismoca
-sistema de monitoreo para cavas
+sistema de monitoreo para cavas por Marcos Toro
